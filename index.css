@@ -1,0 +1,128 @@
+.myname
+{
+	font-size: 30px;
+	color: darkblue;
+	font-family: 'Black Ops One', cursive;
+}
+body
+{
+	margin: 0px;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.resume button
+{
+	background-color: #3a62f2;
+	height: 28px;
+	width: 90px;
+	margin: 20px;
+	color: white;
+	border-radius: 10px;
+	font-weight: bolder;
+	font-size: 16px;
+	margin-left: 45px;
+}
+.resume button:hover
+{
+	color: #3a62f2;
+	transform: scale(1.1);
+	transition-duration: 0.5s;
+	background-color:white ;
+	border:2px solid black;
+}
+.info
+{
+	font-size: 20px;
+	font-family: 'Rubik Iso', cursive;
+}
+.java
+{
+	font-family: 'DM Serif Display', serif;
+	font-weight: bolder;
+	font-size: 30px;
+}
+.div
+{
+	
+	padding-top: 70px;
+	width: 100%;
+	font-size: 50px;
+	font-family: 'Yeseva One';
+	color: darkblue;
+	font-weight: bolder;
+/*	background-color: grey;*/
+	margin-bottom: 10px;
+	padding-bottom: 100px;
+	height: 700px;
+	text-align: center;
+	
+}
+.navbar
+{
+	position: fixed;
+	height: 70px;
+	width: 100%;
+	margin-top: -5px;
+	z-index: 1;
+}
+.myinfo
+{
+	margin-top: -20px;
+/*	background-color: grey;*/
+	padding-top: 100px;
+	margin-left: 30px;
+}
+html
+{
+	scroll-behavior: smooth;
+}
+.home
+{
+	height: 800px;
+	margin-top: 0px;
+	
+	background-image:url("https://www.webdecorum.com/wp-content/uploads/2021/12/web-solutions-gif.gif");
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: 40%;
+	background-position-y: 50px;
+	background-position-x: 850px;
+/*	background-color: grey;*/
+	margin-bottom: 0%;
+	width: 100%;
+	margin-bottom: 10px;
+
+	
+
+
+}
+.resume
+{
+	margin: 5%;
+	margin-left: 100px;
+}
+.click
+{
+	font-size: 20px;
+	font-family: 'Zilla Slab', serif;
+}
+.maindiv
+{
+	width: 100%;
+	position: absolute;
+	top: 0px;
+}
+.abt
+{
+	font-size: 30px;
+	text-align: justify;
+	color: #5f6b73;
+}
+.black
+{
+	color: black;
+}
+.c
+{
+	margin-left: 30px;
+}
